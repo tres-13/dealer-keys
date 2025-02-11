@@ -1,0 +1,20 @@
+{
+    "default": {
+        "vehicleContainer": ".invMainCell",
+        "title": "h4.il0r_vehicleTitle a",
+        "titleAttr": "aria-label",
+        "price": "span.price-2",
+        "mileage": "p.il0r_optMileage",
+        "image": "img.img-fluid.i10r_mainImg",
+        "imageAttr": "data-src"
+    },
+    "dealer_ABC123": {
+        "vehicleContainer": ".car-card",
+        "title": "h2.car-title",
+        "titleAttr": "innerText",
+        "price": ".car-price",
+        "mileage": ".car-mileage",
+        "image": "img.car-image",
+        "imageAttr": "src"
+    }
+}
